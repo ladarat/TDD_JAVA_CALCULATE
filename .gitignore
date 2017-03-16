@@ -1,16 +1,5 @@
-*.class
-bin/
-local.properties
-.classpath
-.project
-
-*.iml
-*.ipr
-*.iws
 .idea/
 
 
-.gradletasknamecache
 .gradle/
 build/
-bin/
